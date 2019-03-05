@@ -1,3 +1,18 @@
+# React-Clicky-Game
+Clicky Game Developed with React
+
+## Heroku-Deployed Link
+https://clickgame-react.herokuapp.com/
+
+## GitHub-Deployed Link
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
